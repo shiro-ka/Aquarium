@@ -1,0 +1,24 @@
+{
+  "name": "aquarium-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiro-ka/Aquarium-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shiro-ka/Aquarium-theme/issues"
+  },
+  "homepage": "https://github.com/shiro-ka/Aquarium-theme#readme",
+  "devDependencies": {
+    "lightningcss-cli": "^1.32.0"
+  }
+}
